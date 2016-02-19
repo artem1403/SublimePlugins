@@ -1,0 +1,14 @@
+ [
+ 	{ "keys": ["ctrl+m", "ctrl+b"], "command": "sql_beautifier" },
+ 	{ "keys": ["ctrl+m", "ctrl+v"], "command": "vba_in_code_translator" },
+ 	{ "keys": ["ctrl+m", "ctrl+o"], "command": "vba_out_code_translator" },
+ 	{ "keys": ["ctrl+m", "ctrl+c"], "command": "cmd_executor" },
+ 	{ "keys": ["ctrl+m", "ctrl+t"], "command": "test_script" },
+ 	{ "keys": ["ctrl+m", "ctrl+a"], "command": "code_aligner" },
+
+ 	{ "keys": ["ctrl+t", "ctrl+v"], "command": "insert_snippet", "args": { "name": "Packages/User/volsel.sublime-snippet" } },
+
+ 	{ "keys": ["ctrl+m", "ctrl+e"], "command": "mail_encoder" },
+ 	{ "keys": ["ctrl+m", "ctrl+s"], "command": "mail_sender" }
+ ]
+
